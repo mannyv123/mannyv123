@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Manjot Virdi</h1>
 <h3 align="center">A passionate full stack developer from Vancouver, Canada</h3>
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **NextJS**
 
-- 💬 Ask me about **React, JavaScript, Node, SQL, AWS**
+- 💬 Ask me about **React, TypeScript, JavaScript, Node, SQL, AWS**
 
 - 📫 How to reach me **virdi_manjot@hotmail.com**
 
